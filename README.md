@@ -1,3 +1,10 @@
+in case the app throws 401 error.. then 
+go to inspect and then application and then local storage 
+then delete the token from local storage and reload the site.... 
+the music app shall be working now
+thank u
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
